@@ -87,4 +87,6 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 </table>
 
 <h2>📬 Contact</h2>
-
+  <a href="https://www.linkedin.com/in/manav-more-79b114228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/manav___2315" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/Manav2315" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
