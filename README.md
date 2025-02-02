@@ -72,7 +72,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Review Management: 📜 Admins can view and delete product reviews.
 - Stock Management: 📉 Product stock is automatically decreased upon shipment.
 
-## Sneak Peek of Admin Dashboard 🙈 :
+## Sneak Peek of Admin Dashboard :
 ![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG)
 
 <table>
